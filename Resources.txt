@@ -1,0 +1,6 @@
+Resources:
+
+https://people.sc.fsu.edu/~jburkardt/data/ply/ply.html
+https://capnramses.github.io/opengl/cubemaps.html
+https://www.youtube.com/watch?v=xutvBtrG23A
+

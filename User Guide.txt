@@ -1,0 +1,13 @@
+Here are some quick steps in order to run the program:
+
+1. Download the zip file and extract it somewhere.
+
+2. Open a terminal window in the extracted folder.
+
+3. Type the command "./run" without the quotation marks.
+
+4. Right-click to move the camera around.
+
+5. Move the light by pressing on the w, a, s, or d keys.
+
+6. Increase/decrease refractivity by pressing on the o or p keys.
